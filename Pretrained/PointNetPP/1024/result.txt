@@ -1,0 +1,143 @@
+epoch[  1] train-acc: 24.007		test: C-acc 32.518  I-acc 42.990		best: C-acc 32.518  I-acc 42.990
+epoch[  2] train-acc: 41.563		test: C-acc 41.555  I-acc 55.024		best: C-acc 41.555  I-acc 55.024
+epoch[  3] train-acc: 52.972		test: C-acc 51.734  I-acc 64.992		best: C-acc 51.734  I-acc 64.992
+epoch[  4] train-acc: 58.976		test: C-acc 53.176  I-acc 67.301		best: C-acc 53.176  I-acc 67.301
+epoch[  5] train-acc: 60.825		test: C-acc 57.687  I-acc 69.773		best: C-acc 57.687  I-acc 69.773
+epoch[  6] train-acc: 62.806		test: C-acc 60.219  I-acc 72.042		best: C-acc 60.219  I-acc 72.042
+epoch[  7] train-acc: 63.578		test: C-acc 64.167  I-acc 72.934		best: C-acc 64.167  I-acc 72.934
+epoch[  8] train-acc: 66.138		test: C-acc 67.971  I-acc 79.092		best: C-acc 67.971  I-acc 79.092
+epoch[  9] train-acc: 68.252		test: C-acc 67.181  I-acc 77.512
+epoch[ 10] train-acc: 69.745		test: C-acc 70.017  I-acc 80.389		best: C-acc 70.017  I-acc 80.389
+epoch[ 11] train-acc: 71.045		test: C-acc 71.072  I-acc 80.632		best: C-acc 71.072  I-acc 80.632
+epoch[ 12] train-acc: 72.803		test: C-acc 72.470  I-acc 80.835		best: C-acc 72.470  I-acc 80.835
+epoch[ 13] train-acc: 73.179		test: C-acc 73.118  I-acc 81.686		best: C-acc 73.118  I-acc 81.686
+epoch[ 14] train-acc: 74.652		test: C-acc 76.016  I-acc 83.630		best: C-acc 76.016  I-acc 83.630
+epoch[ 15] train-acc: 75.749		test: C-acc 76.386  I-acc 84.481		best: C-acc 76.386  I-acc 84.481
+epoch[ 16] train-acc: 76.176		test: C-acc 78.941  I-acc 84.846		best: C-acc 78.941  I-acc 84.846
+epoch[ 17] train-acc: 76.694		test: C-acc 76.170  I-acc 85.211		best: C-acc 76.170  I-acc 85.211
+epoch[ 18] train-acc: 77.558		test: C-acc 76.018  I-acc 84.806
+epoch[ 19] train-acc: 77.974		test: C-acc 77.089  I-acc 84.846
+epoch[ 20] train-acc: 79.630		test: C-acc 76.925  I-acc 84.198
+epoch[ 21] train-acc: 80.920		test: C-acc 78.665  I-acc 86.791		best: C-acc 78.665  I-acc 86.791
+epoch[ 22] train-acc: 81.367		test: C-acc 80.460  I-acc 87.601		best: C-acc 80.460  I-acc 87.601
+epoch[ 23] train-acc: 81.743		test: C-acc 81.914  I-acc 88.209		best: C-acc 81.914  I-acc 88.209
+epoch[ 24] train-acc: 82.058		test: C-acc 80.839  I-acc 88.169
+epoch[ 25] train-acc: 83.145		test: C-acc 80.664  I-acc 88.209
+epoch[ 26] train-acc: 82.322		test: C-acc 81.973  I-acc 87.844
+epoch[ 27] train-acc: 82.983		test: C-acc 82.860  I-acc 88.655		best: C-acc 82.860  I-acc 88.655
+epoch[ 28] train-acc: 83.470		test: C-acc 82.460  I-acc 88.533
+epoch[ 29] train-acc: 82.688		test: C-acc 81.888  I-acc 87.439
+epoch[ 30] train-acc: 83.531		test: C-acc 81.742  I-acc 88.452
+epoch[ 31] train-acc: 84.293		test: C-acc 83.559  I-acc 88.412
+epoch[ 32] train-acc: 83.694		test: C-acc 82.756  I-acc 88.128
+epoch[ 33] train-acc: 84.039		test: C-acc 83.285  I-acc 88.736		best: C-acc 83.285  I-acc 88.736
+epoch[ 34] train-acc: 84.385		test: C-acc 83.031  I-acc 88.655
+epoch[ 35] train-acc: 85.045		test: C-acc 82.840  I-acc 88.736
+epoch[ 36] train-acc: 85.076		test: C-acc 83.767  I-acc 89.506		best: C-acc 83.767  I-acc 89.506
+epoch[ 37] train-acc: 84.954		test: C-acc 83.593  I-acc 89.465
+epoch[ 38] train-acc: 85.106		test: C-acc 84.010  I-acc 89.019
+epoch[ 39] train-acc: 85.086		test: C-acc 81.706  I-acc 88.250
+epoch[ 40] train-acc: 85.187		test: C-acc 83.547  I-acc 88.898
+epoch[ 41] train-acc: 87.087		test: C-acc 83.734  I-acc 89.546		best: C-acc 83.734  I-acc 89.546
+epoch[ 42] train-acc: 87.077		test: C-acc 83.922  I-acc 89.789		best: C-acc 83.922  I-acc 89.789
+epoch[ 43] train-acc: 87.087		test: C-acc 84.292  I-acc 89.344
+epoch[ 44] train-acc: 87.189		test: C-acc 82.947  I-acc 88.817
+epoch[ 45] train-acc: 87.646		test: C-acc 84.585  I-acc 89.546
+epoch[ 46] train-acc: 87.514		test: C-acc 84.488  I-acc 89.425
+epoch[ 47] train-acc: 87.565		test: C-acc 84.580  I-acc 89.749
+epoch[ 48] train-acc: 88.205		test: C-acc 84.797  I-acc 89.303
+epoch[ 49] train-acc: 88.205		test: C-acc 84.738  I-acc 90.316		best: C-acc 84.738  I-acc 90.316
+epoch[ 50] train-acc: 88.103		test: C-acc 84.997  I-acc 89.911
+epoch[ 51] train-acc: 88.530		test: C-acc 85.035  I-acc 89.587
+epoch[ 52] train-acc: 88.469		test: C-acc 85.793  I-acc 89.789
+epoch[ 53] train-acc: 88.174		test: C-acc 84.517  I-acc 89.951
+epoch[ 54] train-acc: 88.987		test: C-acc 84.798  I-acc 90.194
+epoch[ 55] train-acc: 88.591		test: C-acc 84.742  I-acc 90.032
+epoch[ 56] train-acc: 88.753		test: C-acc 86.313  I-acc 90.276
+epoch[ 57] train-acc: 88.906		test: C-acc 84.992  I-acc 89.627
+epoch[ 58] train-acc: 89.221		test: C-acc 86.266  I-acc 90.357		best: C-acc 86.266  I-acc 90.357
+epoch[ 59] train-acc: 89.363		test: C-acc 85.883  I-acc 90.154
+epoch[ 60] train-acc: 88.804		test: C-acc 85.776  I-acc 89.911
+epoch[ 61] train-acc: 89.698		test: C-acc 87.329  I-acc 91.491		best: C-acc 87.329  I-acc 91.491
+epoch[ 62] train-acc: 90.257		test: C-acc 86.234  I-acc 90.235
+epoch[ 63] train-acc: 90.328		test: C-acc 84.817  I-acc 90.316
+epoch[ 64] train-acc: 90.714		test: C-acc 86.209  I-acc 90.640
+epoch[ 65] train-acc: 90.196		test: C-acc 85.533  I-acc 89.465
+epoch[ 66] train-acc: 90.602		test: C-acc 86.303  I-acc 90.113
+epoch[ 67] train-acc: 90.318		test: C-acc 86.296  I-acc 90.964
+epoch[ 68] train-acc: 90.765		test: C-acc 86.200  I-acc 90.276
+epoch[ 69] train-acc: 90.968		test: C-acc 87.487  I-acc 91.126
+epoch[ 70] train-acc: 91.618		test: C-acc 84.846  I-acc 89.263
+epoch[ 71] train-acc: 90.826		test: C-acc 86.582  I-acc 90.478
+epoch[ 72] train-acc: 90.907		test: C-acc 86.617  I-acc 90.073
+epoch[ 73] train-acc: 91.303		test: C-acc 85.164  I-acc 89.587
+epoch[ 74] train-acc: 90.938		test: C-acc 86.950  I-acc 90.154
+epoch[ 75] train-acc: 91.293		test: C-acc 86.305  I-acc 90.194
+epoch[ 76] train-acc: 91.415		test: C-acc 84.850  I-acc 89.587
+epoch[ 77] train-acc: 92.065		test: C-acc 84.901  I-acc 90.357
+epoch[ 78] train-acc: 91.547		test: C-acc 86.014  I-acc 89.749
+epoch[ 79] train-acc: 91.161		test: C-acc 86.855  I-acc 90.519
+epoch[ 80] train-acc: 91.730		test: C-acc 85.505  I-acc 90.154
+epoch[ 81] train-acc: 92.248		test: C-acc 87.358  I-acc 91.167
+epoch[ 82] train-acc: 92.350		test: C-acc 86.821  I-acc 90.681
+epoch[ 83] train-acc: 92.573		test: C-acc 87.379  I-acc 90.843
+epoch[ 84] train-acc: 92.624		test: C-acc 86.479  I-acc 90.073
+epoch[ 85] train-acc: 92.543		test: C-acc 86.346  I-acc 90.154
+epoch[ 86] train-acc: 92.838		test: C-acc 86.180  I-acc 89.789
+epoch[ 87] train-acc: 93.254		test: C-acc 87.254  I-acc 90.924
+epoch[ 88] train-acc: 93.102		test: C-acc 86.980  I-acc 90.438
+epoch[ 89] train-acc: 92.929		test: C-acc 87.096  I-acc 90.519
+epoch[ 90] train-acc: 93.203		test: C-acc 86.733  I-acc 90.276
+epoch[ 91] train-acc: 92.766		test: C-acc 85.397  I-acc 89.627
+epoch[ 92] train-acc: 93.193		test: C-acc 87.762  I-acc 91.410
+epoch[ 93] train-acc: 93.559		test: C-acc 86.446  I-acc 90.194
+epoch[ 94] train-acc: 93.234		test: C-acc 86.158  I-acc 89.951
+epoch[ 95] train-acc: 93.478		test: C-acc 86.933  I-acc 90.559
+epoch[ 96] train-acc: 93.457		test: C-acc 88.066  I-acc 90.964
+epoch[ 97] train-acc: 93.864		test: C-acc 86.870  I-acc 90.559
+epoch[ 98] train-acc: 93.569		test: C-acc 87.325  I-acc 90.519
+epoch[ 99] train-acc: 93.620		test: C-acc 87.003  I-acc 90.640
+epoch[100] train-acc: 93.681		test: C-acc 87.250  I-acc 91.126
+epoch[101] train-acc: 94.138		test: C-acc 87.766  I-acc 90.964
+epoch[102] train-acc: 94.077		test: C-acc 87.775  I-acc 90.802
+epoch[103] train-acc: 94.219		test: C-acc 87.338  I-acc 90.559
+epoch[104] train-acc: 94.605		test: C-acc 87.579  I-acc 90.640
+epoch[105] train-acc: 94.240		test: C-acc 87.417  I-acc 90.478
+epoch[106] train-acc: 94.687		test: C-acc 87.670  I-acc 90.397
+epoch[107] train-acc: 94.473		test: C-acc 87.830  I-acc 91.005
+epoch[108] train-acc: 94.615		test: C-acc 87.116  I-acc 90.316
+epoch[109] train-acc: 94.494		test: C-acc 86.570  I-acc 90.235
+epoch[110] train-acc: 95.093		test: C-acc 87.650  I-acc 90.032
+epoch[111] train-acc: 94.565		test: C-acc 87.109  I-acc 90.194
+epoch[112] train-acc: 94.839		test: C-acc 87.567  I-acc 90.600
+epoch[113] train-acc: 94.514		test: C-acc 87.850  I-acc 90.600
+epoch[114] train-acc: 94.961		test: C-acc 86.975  I-acc 90.721
+epoch[115] train-acc: 94.656		test: C-acc 87.063  I-acc 90.276
+epoch[116] train-acc: 94.890		test: C-acc 87.558  I-acc 90.276
+epoch[117] train-acc: 95.032		test: C-acc 87.346  I-acc 90.478
+epoch[118] train-acc: 94.971		test: C-acc 87.999  I-acc 90.843
+epoch[119] train-acc: 95.154		test: C-acc 86.558  I-acc 89.911
+epoch[120] train-acc: 95.225		test: C-acc 86.566  I-acc 89.668
+epoch[121] train-acc: 95.286		test: C-acc 87.950  I-acc 90.600
+epoch[122] train-acc: 95.570		test: C-acc 88.508  I-acc 90.802
+epoch[123] train-acc: 95.662		test: C-acc 88.041  I-acc 90.357
+epoch[124] train-acc: 95.621		test: C-acc 87.903  I-acc 90.681
+epoch[125] train-acc: 95.621		test: C-acc 87.283  I-acc 89.587
+epoch[126] train-acc: 95.906		test: C-acc 87.891  I-acc 90.964
+epoch[127] train-acc: 95.946		test: C-acc 88.208  I-acc 90.681
+epoch[128] train-acc: 96.261		test: C-acc 88.112  I-acc 90.478
+epoch[129] train-acc: 95.936		test: C-acc 86.729  I-acc 90.113
+epoch[130] train-acc: 95.997		test: C-acc 87.070  I-acc 90.194
+epoch[131] train-acc: 95.987		test: C-acc 87.733  I-acc 90.032
+epoch[132] train-acc: 96.038		test: C-acc 87.850  I-acc 90.519
+epoch[133] train-acc: 96.221		test: C-acc 87.034  I-acc 89.951
+epoch[134] train-acc: 95.987		test: C-acc 87.883  I-acc 90.438
+epoch[135] train-acc: 96.292		test: C-acc 86.933  I-acc 89.870
+epoch[136] train-acc: 96.007		test: C-acc 86.679  I-acc 89.749
+epoch[137] train-acc: 96.332		test: C-acc 87.083  I-acc 90.073
+epoch[138] train-acc: 96.099		test: C-acc 86.842  I-acc 89.708
+epoch[139] train-acc: 96.271		test: C-acc 87.083  I-acc 90.194
+epoch[140] train-acc: 95.987		test: C-acc 86.691  I-acc 89.911
+epoch[141] train-acc: 96.353		test: C-acc 87.216  I-acc 89.830
+epoch[142] train-acc: 96.658		test: C-acc 86.941  I-acc 90.113
+epoch[143] train-acc: 96.576		test: C-acc 87.349  I-acc 90.194
