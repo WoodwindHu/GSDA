@@ -68,3 +68,14 @@ python defense.py --datadir Exps/PointNet_npoint1024/Untarget/GSDA_0_BiStep10_It
 	--npoint 1024 --arch PointNet \
 	--defense_type outliers_fixNum --drop_num 128
 ```
+
+# Citation
+
+```
+@article{hu2022exploring,
+  title={Exploring the Devil in Graph Spectral Domain for 3D Point Cloud Attacks},
+  author={Hu, Qianjiang and Wang, Xiao and Hu, Wei and Qi, Guo-Jun},
+  booktitle={European Conference on Computer Vision 2022},
+  year={2022}
+}
+```
