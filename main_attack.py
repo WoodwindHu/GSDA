@@ -33,7 +33,7 @@ def main(cfg):
         targeted = True
 
     print('=>Creating dir')
-    saved_root = os.path.join('Exps_new', cfg.arch + '_npoint' + str(cfg.npoint))
+    saved_root = os.path.join('Exps', cfg.arch + '_npoint' + str(cfg.npoint))
 
     if cfg.attack == 'GSDA' or cfg.attack == 'GSDA_mesh':
         saved_dir = str(cfg.attack) + '_' +  str(cfg.id) +  '_BiStep' + str(cfg.binary_max_steps) + '_IterStep' + str(cfg.iter_max_steps) + '_Opt' + cfg.optim  +  '_Lr' + str(cfg.lr) + '_Initcons' + str(cfg.initial_const) + '_' + cfg.cls_loss_type + '_' + str(cfg.dis_loss_type) + 'Loss' + str(cfg.dis_loss_weight)
@@ -418,7 +418,7 @@ if __name__ == '__main__':
     parser.add_argument('--is_low_memory', action='store_true', default=False, help='')
     parser.add_argument('--spectral_attack', action='store_true', default=False, help='use spectral attack')
     parser.add_argument('--band_frequency',  type=int, nargs='+', default=[0, 1024], help='band frequency')
-    parser.add_argument('--spectral_offset', action='store_false', default=False, help='use spectral offset attack')
+    parser.add_argument('--spectral_offset', action='store_true', default=False, help='use spectral offset attack')
     parser.add_argument('--spectral_restrict', type=float, default=0.0, help='spectral restrict')
     parser.add_argument('--early_stop', action='store_true', default=False, help='early stop')
     parser.add_argument('--KNN', type=int, default=10, help='K of K-NN graph')
