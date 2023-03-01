@@ -64,7 +64,7 @@ python main_attack.py --data_dir_file Data/modelnet10_250instances1024_PointNet.
 ### Defense
 `defense.py` is used for evaluating the defense results on the corresponding adversarial point clouds:
 ```
-python defense.py --datadir Exps/PointNet_npoint1024/Untarget/GSDA_0_BiStep10_IterStep500_Optadam_Lr0.01_Initcons10_CE_CDLoss1.0_HDLoss0.1_SpectralAttack0_1024 \
+python defense.py --datadir Exps/PointNet_npoint1024/All/GSDA_0_BiStep10_IterStep500_Optadam_Lr0.01_Initcons10_CE_CDLoss1.0_HDLoss0.1_SpectralAttack0_1024/Mat \
 	--npoint 1024 --arch PointNet \
 	--defense_type outliers_fixNum --drop_num 128
 ```
