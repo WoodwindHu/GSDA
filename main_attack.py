@@ -195,8 +195,6 @@ def main(cfg):
         num_attack_classes = 9
 
     for i, data in enumerate(test_loader):
-        if i != 100:
-            continue
         if cfg.attack == 'GSDA_mesh':
             vertex, _, gt_label = data[0], data[1], data[2]
             gt_target = gt_label.view(-1).cuda()

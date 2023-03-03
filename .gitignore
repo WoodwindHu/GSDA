@@ -132,3 +132,4 @@ dmypy.json
 Data/
 Data
 Exps/PointNet_npoint1024/All/GSDA_0_BiStep10_IterStep1_Optadam_Lr0.01_Initcons10_CE_CDLoss1.0_HDLoss0.1_CurLoss1.0_k16_SpectralAttack0_1024/attack_result.txt
+Exps/
