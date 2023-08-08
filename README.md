@@ -69,6 +69,13 @@ python defense.py --datadir Exps/PointNet_npoint1024/All/GSDA_0_BiStep10_IterSte
 	--defense_type outliers_fixNum --drop_num 128
 ```
 
+### Transfer-based Attack
+The transfer-based attack success rate is also calculated using `defense.py`, set `drop_num` to 0 for disgarding defense.
+```
+python defense.py --datadir Exps/PointNet_npoint1024/All/GSDA_0_BiStep10_IterStep500_Optadam_Lr0.01_Initcons10_CE_CDLoss1.0_HDLoss0.1_SpectralAttack0_1024/Mat \
+	--arch PointNetPP --drop_num 0
+```
+
 # Citation
 
 ```
